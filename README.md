@@ -6,7 +6,7 @@ Projeto no qual teve a instrução do professor Tiago Aguiar do canal [Tiago Agu
 ## Demonstração
 
 Insira um gif ou um link de alguma demonstração
-![Index](.assets/index.png)
+![Index](assets/index.png)
 ![Demonstração](.assets/demo.png)
 
 ## Funcionalidades
